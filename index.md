@@ -1,14 +1,14 @@
-## Welcome to GitHub Pages
+# Covid Aware
 
-You can use the [editor on GitHub](https://github.com/Edinburgh-College-of-Art/covid19-caribbean-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+_Italic_COVID aware shows how collective behaviours can affect spread of COVID-19 through a community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## HOW IT WORKS
 
-Test to see if this works?
+Population and infrastructure data collated by the MONA GeoInformatics institute is used to create a model which predicts both the rate of transmission of the virus through the community and the clinical severity for those infected. By adjusting the frequency of different types of social interactions, the effects that different behaviours have on the impact of the virus can be visualised and compared.
 
-### Markdown
+## WHAT IT'S FOR
 
-Markdown is a lightweight and easy to use syntax for styling your writing. It includes conventions for
+These visualisations are for educational purposes only, to help users explore the risks associated with different everyday activities, and serve as illustrations of what might happen if everyone in a community behaved in a similar way. They do not take into account the variety of individual behaviours within real Jamaican communities, nor do they reflect what would happen if a single person changed their behaviour.
 
 ```markdown
 Syntax highlighted code block
