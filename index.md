@@ -1,6 +1,6 @@
 # Covid Aware
 
-> _Italic_ Covid aware shows how collective behaviours can affect spread of COVID-19 through a community.
+_Italic_ Covid aware shows how collective behaviours can affect spread of COVID-19 through a community.
 
 ## HOW IT WORKS
 
