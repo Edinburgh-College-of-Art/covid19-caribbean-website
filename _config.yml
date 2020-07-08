@@ -5,7 +5,7 @@ title: COVID Aware
 email: hello@jonathanrankin.com
 description: Just a simple, single page responsive template brought to you by HTML5 UP.
 baseurl: "covid19-caribbean-website/" # the subpath of your site, e.g. /blog
-url: "https://edinburgh-college-of-art.github.io/" # the base hostname & protocol for your site e.g. http://yvesespinosa.com
+url: "https://edinburgh-college-of-art.github.io" # the base hostname & protocol for your site e.g. http://yvesespinosa.com
 download_button_url: "https://beta.covid-aware.org/guide"
 
 # Social settings
