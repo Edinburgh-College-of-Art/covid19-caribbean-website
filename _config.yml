@@ -1,21 +1,22 @@
 # Site settings
 title: Jekyll fractal
-email: youremailaddress@gmail.com
-description: Just a simple, single page responsive template brought to you by HTML5 UP.
-baseurl: "/fractal-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site e.g. http://yvesespinosa.com
-download_button_url: ""
+email: hello@jonathanrankin.com
+description: COVID aware shows how collective behaviours can affect spread of COVID-19 through a community.
+baseurl: "/covid19-caribbean-website/" # the subpath of your site, e.g. /blog
+url: "https://edinburgh-college-of-art.github.io" # the base hostname & protocol for your site e.g. http://yvesespinosa.com
+download_button_url: "http://test.covid-aware.org/"
 
 # Social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: 
-googleplus_url: 
+gitlab_url:
+googleplus_url:
 instagram_url:
-linkedin_url: 
+linkedin_url:
 pinterest_url:
-twitter_url:  
+twitter_url:
 
 # Build settings
 markdown: kramdown
+remote_theme: Jekyll-Fractal
