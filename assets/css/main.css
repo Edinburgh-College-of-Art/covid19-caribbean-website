@@ -3683,7 +3683,7 @@
 			#header .button.special {
 				box-shadow: none;
 				background-color: #ffffff;
-				color: #4696e5 !important;
+				color: #000000 !important;
 			}
 
 		#header label {
@@ -3758,7 +3758,7 @@
 		}
 
 		#header .icon {
-			color: #b5d5f4;
+			color: #000000;
 		}
 
 		#header .image {
