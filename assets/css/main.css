@@ -2737,7 +2737,7 @@
 
 		header.major:after {
 			content: '';
-			border-bottom: solid 2px #e6e6e6;
+			border-bottom: solid 2px #000000;
 			display: block;
 			width: 4em;
 			margin: 2em auto 0 auto;
@@ -3350,7 +3350,7 @@
 			}
 
 			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
-				color: #828282;
+				color: #000000;
 			}
 
 			.wrapper.style2 blockquote {
