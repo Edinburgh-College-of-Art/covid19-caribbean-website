@@ -22,21 +22,21 @@ title: Home
 		<section class="spotlight">
 			<div class="image"><img src="assets/images/pic01.jpg" alt="" /></div>
 			<div class="content">
-				<h3>Magna sed ultrices</h3>
-				<p>Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.</p>
+				<h3>HOW IT WORKS</h3>
+				<p>Population and infrastructure data collated by the MONA GeoInformatics institute is used to create a model which predicts both the rate of transmission of the virus through the community and the clinical severity for those infected. By adjusting the frequency of different types of social interactions, the effects that different behaviours have on the impact of the virus can be visualised and compared.</p>
 			</div>
 		</section>
 		<section class="spotlight">
 			<div class="image"><img src="assets/images/pic02.jpg" alt="" /></div>
 			<div class="content">
-				<h3>Ultrices nullam aliquam</h3>
-				<p>Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.</p>
+				<h3>WHAT IT'S FOR</h3>
+				<p>These visualisations are for educational purposes only, to help users explore the risks associated with different everyday activities, and serve as illustrations of what might happen if everyone in a community behaved in a similar way. They do not take into account the variety of individual behaviours within real Jamaican communities, nor do they reflect what would happen if a single person changed their behaviour.</p>
 			</div>
 		</section>
 		<section class="spotlight">
 			<div class="image"><img src="assets/images/pic03.jpg" alt="" /></div>
 			<div class="content">
-				<h3>Aliquam sed magna</h3>
+				<h3>How it is modelled</h3>
 				<p>Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.</p>
 			</div>
 		</section>
